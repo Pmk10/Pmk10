@@ -1,6 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Karthikeyan Muthusamy 
+## Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Karthikeyan Muthusamy 
 
-### Technical Business/Data Analyst 🖥️📊
+## Technical Business/Data Analyst 🖥️📊
  
 I'm a passionate Data Science and AI enthusiast with a background in Applied AI Solutions Development. I enjoy working with Machine Learning, Deep Learning, and Data Analytics, building models that extract meaningful insights and drive real-world impact. Skilled in Python, SQL, TensorFlow, PyTorch, and data visualization, I love exploring complex datasets, optimizing ML models, and deploying AI solutions. Always eager to learn, collaborate, and tackle exciting challenges in the field of AI! 🤖  * 🌍  I'm based in Toronto * ✉️  You can contact me at [pmkkarthi5@gmail.com](mailto:pmkkarthi5@gmail.com) * 🧠  I'm learning PyTorch, Keras * 🤝  I'm open to collaborating on Exploring the World of ML & DL (Computer Vision) 🚀
 
